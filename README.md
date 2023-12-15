@@ -1,5 +1,6 @@
 # PokemonTypeClassificator
-Benvenuto nel progetto di Intelligenza Artificiale! Questo progetto utilizza un modello di intelligenza artificiale per effettuare previsioni basate su un set di dati. Segui le istruzioni di seguito per utilizzare il modello su Google Colab.
+Questo progetto sfrutta una rete neurale convoluzionale per prevedere il tipo dei Pokémon basandosi su un set di dati specifico.
+Segui le istruzioni di seguito per utilizzare il modello su Google Colab.
 
 # Istruzioni per l'utilizzo
 1. Ambiente di sviluppo
